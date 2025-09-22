@@ -5,8 +5,8 @@ Modern React.js weather application with real-time data, 5-day forecast, and cit
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/AmbikaMandhaniya/weather-app2.git
+cd weather-app2
 npm install
 echo "REACT_APP_OPENWEATHER_API_KEY=your_api_key" > .env
 npm start
